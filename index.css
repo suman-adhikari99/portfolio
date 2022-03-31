@@ -517,16 +517,16 @@ button:active {
 }
 
 .box-1 {
-  background-image: url("../images/removebg.png");
+  background-image: url("./images/removebg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .box-2 {
-  background-image: url("../images/services-2.png");
+  background-image: url("./images/services-2.png");
 }
 .box-3 {
-  background-image: url("../images/removebg2.png");
+  background-image: url("./images/removebg2.png");
 }
 .box-1 span,
 .box-2 span,
@@ -649,7 +649,7 @@ button:active {
   height: 200px;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("../images/project in your mind.png");
+  background-image: url("./images/project in your mind.png");
   display: flex;
   position: absolute;
   flex-direction: column;
